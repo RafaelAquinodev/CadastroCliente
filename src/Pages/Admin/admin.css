@@ -1,0 +1,46 @@
+.card{
+    width: 800px;
+    display: inline-block;
+    
+    
+    
+}
+
+.delete{
+    margin-left: 20px;
+     
+}
+
+   
+div h1{
+    color: dodgerblue;
+}
+
+.colunas{
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.colunas2{
+    display: inline-block;
+    margin-left: 350px;
+    margin-top: -600px;
+}
+.btn-dentro{
+    margin-top: 20px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 150px;
+   
+    
+}
+.btn-dentro :hover{
+    color: red;
+}
+
+
+.btn-two{
+    display: inline-block;
+    text-align: center;
+    margin-left: 50px;
+}
